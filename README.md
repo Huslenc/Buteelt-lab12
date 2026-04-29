@@ -137,6 +137,4 @@ Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/platform
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
 [INFO] Total time:  9.230 s
-[INFO] Finished at: 2026-04-29T14:34:01+08:00
-[INFO] ------------------------------------------------------------------------
-PS C:\Users\pc\Documents\lab12-buteelt> 
+
